@@ -1,7 +1,7 @@
 a51-system
 ==========
 
-Schema, PCB and assembler sources of my secondary school leaving project
+Schema, PCB and (8051 family) assembler sources of my secondary school leaving project
 
 This is not final version of my work, thanks to floppy's bad blocks, but this is probably latest version what I have.
 
